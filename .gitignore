@@ -1,0 +1,11 @@
+.dart_tool
+.idea
+.DS_Store
+
+pubspec.lock
+
+*.mov
+*.mp4
+*.mp3
+!/example/media/audio.mp3
+!/example/media/camera1.mov

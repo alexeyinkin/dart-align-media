@@ -1,0 +1,16 @@
+name: align_media
+description: Aligns video and audio files based on the sound tracks.
+repository: https://github.com/alexeyinkin/dart-align-media.git
+version: 0.1.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  collection: ^1.15.0
+  meta: ^1.13.0
+  wav: ^1.3.0
+
+dev_dependencies:
+  test: ^1.25.5
+  total_lints: ^3.4.0

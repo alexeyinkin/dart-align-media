@@ -1,0 +1,8 @@
+name: align_media_example
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  align_media: { path: .. }
